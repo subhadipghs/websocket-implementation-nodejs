@@ -1,0 +1,16 @@
+{
+  "name": "websocket-server-implemention-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "s": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
